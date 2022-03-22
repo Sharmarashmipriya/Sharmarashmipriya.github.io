@@ -66,10 +66,11 @@ redirect_from:
 * International Journal of Communication Systems, Wiley
 
 ## Talks
+======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+ 
 ## Teaching
   * Undergraduate: C Programming, Computer Networks, Computer System Organization, Digital Electronics, DBMS
   * Graduate: Advance computer Networks, Machine Learning
