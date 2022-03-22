@@ -72,7 +72,7 @@ redirect_from:
   {% endfor %}</ul>
  
 ## Teaching
-  * Undergraduate: C Programming, Computer Networks, Computer System Organization, Digital Electronics, DBMS
-  * Graduate: Advance computer Networks, Machine Learning
+  * Undergraduate: C Programming, DBMS, Computer Organization and Architecture, Digital Electronics, Computer Networks
+  * Graduate: Advance computer Networks, Machine Learning, Data Mining
   
 
