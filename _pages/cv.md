@@ -22,17 +22,20 @@ redirect_from:
    
   
 ## Skills
-* Programming (Proficient):
-  * C, C++, Java, Python, TeX
-* Network Simulator:
-  * NetSim, QualNet, Contiki-Cooja
-* Data-minig Tool:
-  * Hadoop, Apache Spark
+* Programming (Proficient)
+  * Python , Matlab , C 
+  * Numpy  , Pandas , Scikit Learn 
+  * Matplotlib , LATEX  , Seaborn
+* Programming (Experienced)
+  * Java, C++, Html, CSS, Javascript
+* Big Data Framework
+  * Hadoop ,Apache Spark
+* Dbms Tool
+  * Mysql , MongoDB
 * IoT cloud platforms:
   * Google IoT, Amazon Web Services IoT Platform, Microsoft Azure IoT, IBM Watson IoT
 * Operating System 
   * Desktop OS: Windows 10, Ubuntu 18.04.5
-  * Real-time OS: Contiki-ng, TI-RTOS
 
 ## Achievements
 1. Research grant
@@ -44,11 +47,11 @@ redirect_from:
 * Agro Glean System Enterprise, India, Seed Funding for devlopment of low costa nd reliable capacitive soil moisture sensors.
 
 3. Academic
-* Sored Rank of 3100 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering),2020 ,and is conducted across India, Bangladesh, Ethiopia, Nepal, Singapore, Sri Lanka, and United Arab Emirates.
-* Research PhD Fellowship from Technical Education Quality Improvement Programme (TEQIP-III), A project of Government of India assisted by World Bank.
+* Sored Rank of 3000 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering),2020 ,and is conducted across India, Bangladesh, Ethiopia, Nepal, Singapore, Sri Lanka, and United Arab Emirates.
+* Research PhD Fellowship from Science and Engineering Research Board, India.
 
 ## Membership
-* Member, IEEE (ID: 92354743)
+* Member, IEEE (ID: )
 * IEEE Instrumentation and Measurement Society Membership
 * IEEE Young Professionals
 * IEEE Communications Society Membership
@@ -59,10 +62,7 @@ redirect_from:
 * Student Member, ACM
 
 ## Reviewer Experience
-* IEEE Transactions on Circuits and Systems II: Express Briefs
-* IEEE Access
-* IEEE Sensor Journal
-* Wireless Networks, Springer
+* Sustainable Computing: Informatics and Systems, Elsevier
 * International Journal of Communication Systems, Wiley
 
 ## Talks
@@ -71,7 +71,7 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Teaching
-  * Undergraduate: C Programming, Computer Networks, Computer System Organization, Digital Electronics
+  * Undergraduate: C Programming, Computer Networks, Computer System Organization, Digital Electronics, DBMS
   * Graduate: Advance computer Networks, Machine Learning
   
 
