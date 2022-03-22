@@ -45,7 +45,7 @@ redirect_from:
 * Agro Glean System Enterprise, India, Seed Funding for devlopment of low cost and reliable capacitive soil moisture sensors.
 
 3. Academic
-* Sored Rank of 3000 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering)
+* Sored Rank of 3000 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering))
 * Research PhD Fellowship from Science and Engineering Research Board, India.
 
 ## Membership
