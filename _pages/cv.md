@@ -49,15 +49,18 @@ redirect_from:
 * Research PhD Fellowship from Science and Engineering Research Board, India.
 
 ## Membership
+* Student Member, ACM
 * Member, IEEE
+* International Society of Precision Agriculture
+* * IEEE Young Professionals
 * IEEE Instrumentation and Measurement Society Membership
-* IEEE Young Professionals
 * IEEE Communications Society Membership
+* IEEE Council on Electronic Design Automation
 * IEEE Signal Processing Society Membership
 * IEEE Sensors Counsil
-* IEEE Council on Electronic Design Automation
-* International Society of Precision Agriculture
-* Student Member, ACM
+
+
+
 
 ## Reviewer Experience
 * Sustainable Computing: Informatics and Systems, Elsevier
