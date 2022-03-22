@@ -52,7 +52,7 @@ redirect_from:
 * Student Member, ACM
 * Member, IEEE
 * International Society of Precision Agriculture
-* * IEEE Young Professionals
+* IEEE Young Professionals
 * IEEE Instrumentation and Measurement Society Membership
 * IEEE Communications Society Membership
 * IEEE Council on Electronic Design Automation
