@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PANKAJ PAL"
+title                    : "Rashmi Priya Sharma"
 title_separator          : "-"
-name                     : &name "Pankaj Pal"
+name                     : &name "Rashmi Priya Sharma"
 description              : &description "personal description"
-url                      : https://palpankaj01.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rashmipriya30.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "palpankaj01/palpankaj01.github.io"
+repository               : "rashmipriya30/rashmipriya30.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,15 +77,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pankal Pal"
-  avatar           : "pankaj.jpg"
+  name             : "Rashmi Priya Sharma"
+  avatar           : "rashmi.jpg"
   bio              : |
                     Senior Research Fellow,
                     Computer Science and Engineering,
                     IIT Dhanbad
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=eWSjzZ8AAAAJ&hl=en&oi=sra"
-  email            : "palpankaj03[AT]gmail[DOT]com"
+  googlescholar    : "https://scholar.google.com/citations?user=BBdIL-AAAAAJ&hl=en&oi=ao"
+  email            : "rashmi.priya.303[AT]gmail[DOT]com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,13 +93,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "palpankaj03"
+  github           : "rashmipriya30"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1766-7533"
+  orcid            : "https://orcid.org/0000-0003-2856-5858"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
