@@ -39,19 +39,17 @@ redirect_from:
 
 ## Achievements
 1. Research grant
-* Department of Science and Technology (DST), Government of India Research Grant for the period of three years.
-* Science and Engineering Research Board (SERB), Government of India Research Grant for the period of one year
+* Department of Science and Technology (DST),Science and Engineering Research Board (SERB) Government of India Research Grant for the period of three years.
 
 2. Industry
-* Ministry of Micro, Small and Medium Enterprises, Government of India, Seed Funding for Solar/wind street lightning product devlopment.
-* Agro Glean System Enterprise, India, Seed Funding for devlopment of low costa nd reliable capacitive soil moisture sensors.
+* Agro Glean System Enterprise, India, Seed Funding for devlopment of low cost and reliable capacitive soil moisture sensors.
 
 3. Academic
 * Sored Rank of 3000 out of 1.8 million student in Graduate Aptitude Test in Engineering ([GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering),2020 ,and is conducted across India, Bangladesh, Ethiopia, Nepal, Singapore, Sri Lanka, and United Arab Emirates.
 * Research PhD Fellowship from Science and Engineering Research Board, India.
 
 ## Membership
-* Member, IEEE (ID: )
+* Member, IEEE
 * IEEE Instrumentation and Measurement Society Membership
 * IEEE Young Professionals
 * IEEE Communications Society Membership
