@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 ## Brief Bio
-Hi! I’m Pankaj Pal a Senior Research Fellow at the Indian Institute of Technology, Dhanbad in the Department of Computer Science and Engineering. 
-I am also an entrepreneur and chief technical officer in startup. 
-Being a climate activist my research are all grounded in the idea that science and technology can help us to overcome Climate crises. I have expertise in Wireless networking, Sensor networks and embedded system. For a decade I have been investigating the applications of ICT technologies like artificial intelligence, machine learning, IoT and the digital twin in mitigating the impact of climate change on agriculture, water resources and human health.
+Hi! I’m Rashmi Priya Sharma a Senior Research Fellow at the Indian Institute of Technology, Dhanbad in the Department of Computer Science and Engineering. 
+I am also Senior Data Scientist in a startup. Being a climate activist my research are all grounded in the idea that science and technology can help us to overcome Climate crises. I have expertise in Machine Learning, Artificial Intelligence and Big Data Processings. For a decade I have been investigating the applications of ICT technologies like artificial intelligence, machine learning, IoT and the digital twin in mitigating the impact of climate change on agriculture, water resources and human health.
 
 
 
@@ -63,8 +62,8 @@ Room No. 124, Project Lab\
 Department of Computer Science & Engineering\
 Indian Institute of Technology (IIT), Dhanbad\
 Sardar Patel Nagar, Dhanbad, Jharkhand 826004\
-Email: palpankaj03@gmail.com\
-Phone: +91-9973389227
+Email: rashmi.priya.303@gmail.com\
+Phone: +91-9155357801
 
 
 
