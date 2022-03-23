@@ -13,7 +13,7 @@ Artificial intelligence & Machine learning,	Data Analytics, IoT & Edge Computing
 ## Current Research in Progress
 
 ### **IoT enabled WSN monitoring infrastructure driven Fuzzy-logic based Crop pest prediction**
-<p align="justify"> <img align="right" src="/images/soil1.png" width="370">
+<p align="justify"> <img align="right" src="/images/proj1.png" width="370">
 Precision Agriculture, as the future of farming technology, addresses challenges faced by farmers by data-mining of information collected through IoT-enabled crop monitoring infrastructures. The identification of Crop disease is one of the widely studied challenges. Crop diseases cannot be accurately predicted by merely analyzing individual disease causes. This work presents a Fuzzy logic-based pest prediction mechanism assisting in beforehand preparedness for potential pest prevention. The experiments are performed for pests in rice and millet crops. The Data-mining over samples collected in a cropping cycle revealed the plausible correlation between temperature, relative humidity, and rainfall with pest breeding. The data collected through IoT monitoring infrastructure is analyzed for the ambient breeding condition of the pest. 
   
 <details>
