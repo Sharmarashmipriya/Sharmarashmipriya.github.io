@@ -23,7 +23,7 @@ Despite using chemical pesticides and various non-chemical methods like crop rot
 </details></p>
 
 ### **Crop Plantation Correctness Index Identification**
-<p align="justify"> <img align="right" src="/images/proj1.png" width="370">
+<p align="justify"> <img align="right" src="/images/proj3.png" width="370">
 There is a change in the climate in the past few decades. Various recent surveys and studies show the change in climatic conditions and this includes changes in the rainfall pattern, fluctuation in temperature, shifts in the timing of the season. As agriculture is dependent upon climate, the adverse effect of climate can be seen in agriculture; therefore, it is highly recommended to manage the resources according to the season shift for maximizing the crop yield.
   
 <details>
