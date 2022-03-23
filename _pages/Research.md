@@ -13,7 +13,7 @@ Artificial intelligence & Machine learning,	Data Analytics, IoT & Edge Computing
 ## Current Research in Progress
 
 ### **IoT enabled WSN monitoring infrastructure driven Fuzzy-logic based Crop pest prediction**
-<p align="justify"> <img align="right" src="/images/proj1.png" width="370">
+<p align="justify"> <img align="right" src="/images/proj2.png" width="370">
 Precision Agriculture, as the future of farming technology, addresses challenges faced by farmers by data-mining of information collected through IoT-enabled crop monitoring infrastructures. The identification of Crop disease is one of the widely studied challenges. Crop diseases cannot be accurately predicted by merely analyzing individual disease causes. This work presents a Fuzzy logic-based pest prediction mechanism assisting in beforehand preparedness for potential pest prevention. The experiments are performed for pests in rice and millet crops. The Data-mining over samples collected in a cropping cycle revealed the plausible correlation between temperature, relative humidity, and rainfall with pest breeding. The data collected through IoT monitoring infrastructure is analyzed for the ambient breeding condition of the pest. 
   
 <details>
@@ -23,7 +23,7 @@ Despite using chemical pesticides and various non-chemical methods like crop rot
 </details></p>
 
 ### **Crop Plantation Correctness Index Identification**
-<p align="justify"> <img align="right" src="/images/proj2.png" width="370">
+<p align="justify"> <img align="right" src="/images/proj1.png" width="370">
 There is a change in the climate in the past few decades. Various recent surveys and studies show the change in climatic conditions and this includes changes in the rainfall pattern, fluctuation in temperature, shifts in the timing of the season. As agriculture is dependent upon climate, the adverse effect of climate can be seen in agriculture; therefore, it is highly recommended to manage the resources according to the season shift for maximizing the crop yield.
   
 <details>
@@ -32,7 +32,7 @@ The weather directly influences agriculture, starting from the sowing of the see
 </details></p>
 
 ### **Role of AI & ML in mitigating the impact of climate change on farming in developing countries**
-<p align="justify"> <img align="right" src="/images/soil3.png" width="370">
+<p align="justify"> <img align="right" src="/images/proj1.png" width="370">
 At the end of July 1966 an interdisciplinary meeting was held at the University of Reading, to discuss the relationships between climate and agriculture. This symposium was attended by scientists from thirty-six countries, sponsored by U, and organized by Professor A. H. Bunting, professor of agricultural botany at Reading, and Mr. L.P. Smith, president of the Commission for Agricultural Meteorology of the World Meteorological Organization. The conclusions reached at the symposium was that the demand for the correct assessment of climatic factors when planning for the increased food production which is so urgently needed by an expanding world population has become a matter of prime importance to both United Nations technical agencies and individual countries.
 
 <details>
