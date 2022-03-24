@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-# Compleated and Ongoing Projects
+# Completed and Ongoing Projects
 
-## Design of Reliable and Energy Efficient Transport Layer Protocol for Wireless Sensor Networks
+## Precision Agriculture Model to Increase Crop Productivity in India using Big Data
 **Sponsored by: Department of Science and Technology, Government of India** \
-The overall objective of this project is to design reliable and energy efficient transport layer protocol for ad-hoc and sensor network. a.	We proposed an enhanced protocol for channel reservation to reduce packet drops using cross layer approach. It shares information between transport layer and data link layer. Especially, availability of buffer space is considered prior to sending the confirmation message (CTS) to sender node. BA-MAC is recommended for dense wireless networks where most of the nodes face congestion and drop packets due to buffer overwhelming. This protocol achieves 2.81 % improvement in energy consumption. Also, it reduces packet drop rate by 14.6 %. Thus BA-MAC enriches efficiency of the network by 15 % (approximately) as compared to default MAC layer protocols.
+The core objective of this project is to develop a suitable prediction model to predict the weather condition and crop diseases using soil condition and environmental variables with Big Data in the geographical location of India. To create an effective and connected national smart agriculture system that enables smart decision making in agriculture management in India and ensures national alignment for implementation. The aim of developing models to predict with high impact but not to simply explain the relationship between the soil and environmental parameters. Therefore, co-linearity between present variables and past variables are included in a final model. With the crop disease prediction, the farmer could use it to make economic decisions aboutdisease treatments for control. The model recommendation is made about whether disease treatment is necessary or not. Weather forecasting with Big Data with the consideration of soil condition is the new approach which can lead to smart decision making based on environmental data. These kind of prediction models are useful in decision-making system where agriculture system is not well managed.
 
 ## AI/ML-Driven Intrusion Detection Framework for IoT Enabled Cold Storage Monitoring
 **Sponsored by: Data Security Council of India (DSCI) | A NASSCOM Initiative** \
