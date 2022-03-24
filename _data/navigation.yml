@@ -1,8 +1,6 @@
 # main links links
 main:
-  - title: "Bio"
-    url: /cv/ 
-    
+
   - title: "Research"
     url: /Research/
   
@@ -11,6 +9,9 @@ main:
 
   - title: "Projects"
     url: /Projects/       
+    
+  - title: "Bio"
+    url: /cv/ 
     
   - title: "Gallery"
     url: /Gallery/ 
