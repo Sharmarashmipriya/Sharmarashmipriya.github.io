@@ -23,18 +23,16 @@ I broadly work in Big data analytics and its application in the field of [precis
  - Modular artificial neural network-based crop yield prediction by considering weather attributes and land and suggesting measures to increase the crop yield. .
 
 ## Current Projects
-1. **Title**: AI/ML-driven Intrusion Detection Framework for IoT enabled Cold Storage Monitoring.
+1. **Title**: Precision Agriculture Model to Increase Crop Productivity in India using Big Data.
 **Role**: Senior Research Fellow (Team Leader).
-**Collaborator**: Data Security Council of India (DSCI) | A NASSCOM® Initiative.
-2. **Title**: Solar powered industrial Unmanned Arial Vehicle (UAV) for surveying and seed dropping.
-**Role**: Senior Software Engineer (Team Leader).
-**Collaborator**: Ministry of Micro, Small and Medium Enterprises, Government of India.
-3. **Title**: Interoperability issues in Fog-Cloud Infrastructure for IoT Applications.
-**Role**: Senior Research Fellow.
-**Collaborator**:Science and Engineering Research Board, Government of India.
-4. **Title**: Design of reliable and energy efficient transport layer protocol for Wireless sensor networks.
-**Role**: Senior Research Fellow.
 **Collaborator**: Department of Science and Technology, Government of India.
+2. **Title**: IoT based Decision Support System for Efficient Irrigation in Agriculture.
+**Role**: Senior Software Engineer (Team Leader).
+**Collaborator**: Agro Glean System, Gwalior , India.
+3. **Title**: Machine learning based agriculture advent for farmer activity development in India.
+**Role**: Senior Research Fellow.
+**Collaborator**:Agro Glean System, Gwalior , India.
+
 
 ## Recent publications
 1. Priya Rashmi, Ramesh Dharavath, and U. Venkanna, "NSGA-2 Optimized Fuzzy Inference System for Crop Plantation Correctness Index Identification," Transactions on Sustainable Computing, (IEEE), vol. 7(1), pp. 172-188(2022).
