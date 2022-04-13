@@ -30,7 +30,7 @@ I broadly work in Big data analytics and its application in the field of [precis
 **Role**: Senior Software Engineer (Team Leader).
 **Collaborator**: Agro Glean System, Gwalior , India.
 3. **Title**: Machine learning based agriculture advent for farmer activity development in India.
-**Role**: Senior Research Fellow.
+**Role**: Senior Data Scientist.
 **Collaborator**:Agro Glean System, Gwalior , India.
 
 
